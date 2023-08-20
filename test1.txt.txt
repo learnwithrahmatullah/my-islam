@@ -1,3 +1,4 @@
 this is test1
 this is test1 second line.
 this is commit third line
+logo alignment is centered
